@@ -7,24 +7,33 @@
   color: hsl(228, 45%, 44%);
 }
 
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
 body {
   font-family: "Outfit", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .main-container {
-  margin-top: 120px;
-  margin-left: 250px;
-  margin-bottom: 80px;
-  /* border: 1px solid black; */
+  margin: 20px auto;
   padding: 20px;
   background-color: hsl(212, 45%, 89%);
-  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.15);
-  width: 1000px;
+  box-shadow: 0px 5px 15px 5px rgba(0, 0, 0, 0.15);
+  /* width: 100%;
+  max-width: 1200px; */
+  width: min(100%, 1200px);
 }
 
 .qrCode_card {
-  width: 250px;
-  /* border: 1px solid black; */
+  width: 100%;
+  max-width: 340px;
   margin: 20px auto;
   padding: 20px;
   background-color: white;
@@ -34,28 +43,33 @@ body {
 .imgContainer {
   display: flex;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 .qrCode-img {
   width: 100%;
   background-size: contain;
   border-radius: 10px;
-  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 5px 15px 5px rgba(0, 0, 0, 0.15);
 }
 
 .heading,
 .message {
   text-align: center;
+  margin: 0;
 }
 
 .heading {
   font-weight: 700;
-  font-size: 18px;
+  font-size: 1.4rem;
+  margin: 10px 0;
   color: hsl(218, 44%, 22%);
 }
 
 .message {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin-bottom: 30px;
   color: hsl(216, 15%, 48%);
 }
