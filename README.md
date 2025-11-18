@@ -17,10 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-### At 375px #updated ss output at 375px
+### At mobile view
 ![screenshot of the output at 375px](./SS_output/at_375px.png) 
 
-### At 1440px #updated ss output at 1440px
+### At desktop view
 ![screenshot of the output at 1440px](./SS_output/at_1440px.png)
 
 ### Links
@@ -37,5 +37,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [qqroku](https://qqroku.github.io/QR-Code/)
+- Github - [qqroku](https://qqroku.github.io/QR-Code/)
 - Frontend Mentor - [@qqroku](http://frontendmentor.io/profile/qqroku)
