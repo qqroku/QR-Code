@@ -18,10 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ### At 375px
-![screenshot of the output at 375px](./SS_output/at_375px.png)
+![screenshot of the output at 375px](SS_output/at_375px.png)
 
 ### At 1440px
-![screenshot of the output at 1440px](./SS_output/at_1440px.png)
+![screenshot of the output at 1440px](SS_output/at_1440px.png)
 
 ### Links
 
