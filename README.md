@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-### At 375px
-![screenshot of the output at 375px](./SS_output/at_375px.png) #updated ss output at 375px
+### At 375px #updated ss output at 375px
+![screenshot of the output at 375px](./SS_output/at_375px.png) 
 
-### At 1440px
-![screenshot of the output at 1440px](./SS_output/at_1440px.png) #updated ss out at 1440px
+### At 1440px #updated ss output at 1440px
+![screenshot of the output at 1440px](./SS_output/at_1440px.png)
 
 ### Links
 
